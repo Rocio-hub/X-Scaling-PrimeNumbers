@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "9I4ytjJzzyrA4j0zzkoNaHMo8QshAEKDwTOCl8Libm1tWxxREBxSDZbfWfoed7T/7Fv9KJFKHqNXK0dp0qta5g==",
+  "success": true,
+  "projectFilePath": "E:\\Github_Repos\\Development of Large Systems\\RF_Compulsory1\\Load-Balancer\\Load-Balancer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rtlop\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\rtlop\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\rtlop\\.nuget\\packages\\restsharp\\106.12.0\\restsharp.106.12.0.nupkg.sha512",
+    "C:\\Users\\rtlop\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\rtlop\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\rtlop\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\rtlop\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

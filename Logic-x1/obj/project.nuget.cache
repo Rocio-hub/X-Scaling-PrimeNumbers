@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "FULcJASkDyN2UqV9ZPxrnw4Jy8ZlZNsGZ3DkfjnGBP0CXrcYi/jw8f03VDQmW48bhOgJVUx8HHyy+MtmKevDNQ==",
+  "success": true,
+  "projectFilePath": "E:\\Github_Repos\\Development of Large Systems\\RF_Compulsory1\\Logic-x1\\Logic-x1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rtlop\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\rtlop\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\rtlop\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\rtlop\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\rtlop\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\rtlop\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
